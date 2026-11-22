@@ -1,95 +1,86 @@
-# Hi there, I'm Mohamed Aziz Zarroug 👋
+# 👋 Hey, I'm Mohamed Aziz Zarroug
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mohamed%20Aziz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<div align="center">
 
-### 🎓 Computer Science Engineering Student | Software Engineering | AI & Data Science
+# 💻 Computer Science Engineering Student
 
-I'm a Computer Science Engineering student at **Polytechnique Monastir, Tunisia**, specializing in Software Engineering.
+### Software Engineering | Artificial Intelligence | Data Science
 
-I'm passionate about building software solutions, exploring Artificial Intelligence, and developing technologies that solve real-world problems.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)](https://github.com/YOUR_USERNAME)
 
-- 🌍 Based in Tunisia
-- 🎓 Computer Science Engineering Student at Polytechnique Monastir
-- 💻 Interested in Software Engineering, AI & Data Science
-- 🤖 Member of the Robotics Club
-- 🚀 Always learning, building and exploring new technologies
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-- Python
-- Java
-- C
-- JavaScript
-- PHP
-
-**Web Development**
-- HTML5, CSS3, JavaScript
-- React
-- Symfony
-- FastAPI
-
-**Databases**
-- MySQL
-- PostgreSQL
-
-**Tools & Technologies**
-- Git & GitHub
-- Docker
-- Linux
-- VS Code
-- Figma
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### 📄 AI Invoice OCR
-An intelligent invoice processing application using OCR and AI to extract structured information from invoices.
+🎓 Computer Science Engineering student at **Polytechnique Monastir, Tunisia**.
 
-**Technologies:** Python, FastAPI, PaddleOCR, Groq, React.
+💡 Passionate about software development, artificial intelligence and emerging technologies.
 
-### 📦 Stock Management System
-A Java application designed to manage products, categories and suppliers using an MVC architecture and DAO pattern.
+🤖 Active member of the Robotics Club.
 
-**Technologies:** Java, MySQL, JDBC, MVC.
+🌱 Constantly learning, experimenting and building innovative solutions.
 
-### 🌐 Web Development Projects
-Developing web applications with modern frontend and backend technologies.
-
-**Technologies:** HTML, CSS, JavaScript, PHP, Symfony.
+🎯 My goal is to transform ideas into useful software products.
 
 ---
 
-## 📊 GitHub Statistics
+## ⚡ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### Frontend & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 🔥 Featured Projects
 
-- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: [YOUR_EMAIL]
-- 🌐 GitHub: [My GitHub](https://github.com/YOUR_USERNAME)
+| Project | Description | Technologies |
+|---|---|---|
+| 📄 AI Invoice OCR | Intelligent invoice data extraction | Python, FastAPI, PaddleOCR, React |
+| 📦 Stock Management | Inventory management application | Java, MySQL, JDBC |
+| 🌐 Web Applications | Modern web development projects | PHP, Symfony, JavaScript |
 
 ---
 
-⭐ *"Building today what can make a difference tomorrow."*
+## 📊 GitHub Analytics
 
-<!--
-**mohamedazizzarroug/mohamedazizzarroug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating and exploring new opportunities.
+
+<div align="center">
+
+**Let's build something amazing together! 🚀**
+
+</div>
